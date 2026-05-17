@@ -13,7 +13,7 @@ import java.awt.event.WindowEvent;
 import javax.swing.*;
 
 public class Main {
-  public static void main() {
+  public static void main(String[] args) {
     SwingUtilities.invokeLater(
         () -> {
           try {
